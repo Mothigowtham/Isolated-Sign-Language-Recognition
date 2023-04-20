@@ -1,1 +1,0 @@
-# Isolated-Sign-Language-Recognition
