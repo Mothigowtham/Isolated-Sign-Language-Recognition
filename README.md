@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Isolated Sign Language Recognition (ISLR)
 
 ## Technologies Used 
@@ -23,3 +25,5 @@ Gained extensive experience in applying deep learning techniques to a novel and 
 ## Impact:
 
 This project underscored the potential of deep learning in bridging communication gaps for individuals with hearing impairments. By achieving a 66% accuracy with the GRU model, it laid a foundation for future advancements in real-time sign language recognition, promising a more inclusive and accessible future for the deaf and hard-of-hearing community.
+
+</div>
